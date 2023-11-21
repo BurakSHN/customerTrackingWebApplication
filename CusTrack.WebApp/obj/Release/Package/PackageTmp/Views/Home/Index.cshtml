@@ -1,0 +1,98 @@
+﻿@using CusTrack.WebApp.Models.Home
+@model HomePageViewModel
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .thumbnail,td,th {
+    border: 2px solid #0094ff;
+}
+</style>
+
+<div class="container">
+    <div class="row">
+        <h1 style="text-align:center"><font color="red"><u><i>@Html.Raw(ViewBag.Baslik)</i></u></font></h1>
+    </div>
+</div><br />
+
+
+<div class="container">
+    <div class="row">
+
+        <div class="col-md-9">
+            <div class="row">
+                @foreach (var item in Model.SeansList)
+                {
+                    <div class="col-sm-12 col-lg-12 col-md-12" data-seans-id="@item.Id">
+                        <div class="thumbnail">
+                            <div class="caption">
+                                <h4 style="text-align:center">
+                                    <font color="red"><b>@item.Title</b></font>
+                                </h4>
+                                <hr />
+                                <h5 class="text-right">
+                                    <span class="fa fa-user-circle fa-2x" style="vertical-align:middle"></span>&nbsp;<font size="3"><b>@item.Owner.Name&nbsp;@item.Owner.Surname</b></font><br />
+                                    <span class="fa fa-clock-o fa-2x" style="vertical-align:middle"></span>&nbsp;<font color="red" size="3"><b>@item.Date.ToString("dd-MM-yyyy")</b></font><br />
+                                    <span class="fa fa-phone fa-2x" style="vertical-align:middle"></span>&nbsp;<font size="3"><b>@item.Owner.Phone</b></font>
+
+                                </h5>
+
+                                
+
+                                @* null veya boş degil ise *@
+                                @if (string.IsNullOrEmpty(item.Text) == false && item.Text.Length > 190)
+                                {
+                                    <p>@(item.Text.Substring(0, 189) + ". . . ")<a href="#" class="btn btn-default btn-xs" data-toggle="modal" data-target="#modal_seansdetail" data-seans-id="@item.Id">Devamı <span class="fa fa-arrow-circle-o-right "></span></a></p>
+                                        
+                                }
+                                else
+                                {
+                                    <p>&emsp;&emsp;&emsp;@item.Text</p>
+                                }
+
+                                <p class="pull-right">
+                                    @MyBootstrap.LinkButton("/Seans/Edit/" + item.Id, "warning",null, "Düzenle", "edit", "Düzenle")
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+  
+        <div class="col-md-3">
+            <ul class="list-group">
+                <li class="list-group-item list-group-item-danger" style="text-align:center">
+                    <b>Doğum Günü</b>
+                </li>
+
+                @foreach (var item in Model.CustomerList)
+                {
+                    <li class="list-group-item">
+                        <i class="fa fa-user-o" aria-hidden="true"></i>&nbsp;<b>@item.Name&nbsp;@item.Surname</b> <i>@item.Phone</i>
+                    </li>
+                }
+
+            </ul>
+        </div>
+        
+    </div>
+</div>
+
+@MyBootstrap.ModalPopup(id: "modal_seansdetail", title: "Seans Detayı")
+@Html.Partial("_PartialFooter")
+
+<script>
+    $(function () {
+
+        $('#modal_seansdetail').on('show.bs.modal', function (e) {
+            var btn = $(e.relatedTarget);
+            seansid = btn.data("seans-id");
+
+            $("#modal_seansdetail_body").load("/Home/GetSeansText/" + seansid);
+        })
+    });
+</script>

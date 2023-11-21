@@ -1,0 +1,59 @@
+﻿
+@{
+    ViewBag.Title = "Calendar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+.fc-today {
+    background: #ffd800 !important;
+    border: none !important;
+    border-top: 1px solid #ddd !important;
+    font-weight: bold;
+} 
+</style>
+
+<link href="~/Content/fullcalendar.min.css" rel="stylesheet" />
+
+<div id="calendar">
+    
+</div>
+
+@section calendar{
+    
+    <script src="~/Scripts/moment.min.js"></script>
+    <script src="~/Scripts/moment-with-locales.min.js"></script>
+    <script src="~/Scripts/fullcalendar/fullcalendar.min.js"></script>
+    <script src="~/Scripts/fullcalendar/locale/tr.js"></script>
+    <script src="~/Scripts/fullcalendar/locale-all.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            GetCalendarEvents();
+        });
+
+        function GetCalendarEvents() {
+            
+            $('#calendar').fullCalendar({
+                height:'parent',
+                locale: 'tr',
+                header: {
+                    left: 'prev,next today',
+                    center: 'title',
+                    right: 'month,agendaWeek,agendaDay',
+                    height:'parent'
+                },
+                editable: true,
+                events: '/Home/GetCalendarEvents/',
+                eventClick: function (event) {
+                    alert("\nMüşteri : " + event.title + "\nTarih : " + event.Tarih + '\nTel No : ' + event.TelNo + '\nBaşlık : ' + event.Baslik + "\nAçıklama : " + event.Aciklama + "\nÜcret : " + event.Ucret);
+                }
+            });
+        }
+        
+
+    </script>
+
+
+
+}

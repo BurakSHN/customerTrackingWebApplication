@@ -1,0 +1,28 @@
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.Entities\bin\Debug\CusTrack.Entities.dll
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.Entities\bin\Debug\CusTrack.Entities.pdb
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.Entities\obj\Debug\CusTrack.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.Entities\obj\Debug\CusTrack.Entities.dll
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.Entities\obj\Debug\CusTrack.Entities.pdb
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.Entities\bin\Debug\CusTrack.Entities.dll
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.Entities\bin\Debug\CusTrack.Entities.pdb
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.Entities\obj\Debug\CusTrack.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.Entities\obj\Debug\CusTrack.Entities.dll
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.Entities\obj\Debug\CusTrack.Entities.pdb
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.Entities\bin\Debug\CusTrack.Entities.dll
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.Entities\bin\Debug\CusTrack.Entities.pdb
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.Entities\obj\Debug\CusTrack.Entities.dll
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.Entities\obj\Debug\CusTrack.Entities.pdb
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.Entities\obj\Debug\CusTrack.Entities.csprojAssemblyReference.cache
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.Entities\obj\Debug\CusTrack.Entities.csproj.CoreCompileInputs.cache
+C:\Users\BurakSahin\Desktop\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.Entities\bin\Debug\CusTrack.Entities.dll
+C:\Users\BurakSahin\Desktop\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.Entities\bin\Debug\CusTrack.Entities.pdb
+C:\Users\BurakSahin\Desktop\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.Entities\obj\Debug\CusTrack.Entities.csprojAssemblyReference.cache
+C:\Users\BurakSahin\Desktop\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.Entities\obj\Debug\CusTrack.Entities.csproj.CoreCompileInputs.cache
+C:\Users\BurakSahin\Desktop\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.Entities\obj\Debug\CusTrack.Entities.dll
+C:\Users\BurakSahin\Desktop\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.Entities\obj\Debug\CusTrack.Entities.pdb
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.Entities\bin\Debug\CusTrack.Entities.dll
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.Entities\bin\Debug\CusTrack.Entities.pdb
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.Entities\obj\Debug\CusTrack.Entities.csproj.AssemblyReference.cache
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.Entities\obj\Debug\CusTrack.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.Entities\obj\Debug\CusTrack.Entities.dll
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.Entities\obj\Debug\CusTrack.Entities.pdb

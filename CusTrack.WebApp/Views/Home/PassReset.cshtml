@@ -1,0 +1,41 @@
+﻿@model CusTrack.Entities.ValueObjects.PassResetViewModel
+
+@{
+    Layout = null;
+}
+
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<link href="~/Content/login-register.css" rel="stylesheet" />
+<link href="~/Content/validation-summary.css" rel="stylesheet" />
+
+<section class="login-info">
+    <div class="container">
+        <div class="row main">
+            <div class="form-header">
+                <h1 class="text-center ">Parola Sıfırlama</h1>
+            </div>
+            <div class="main-content">
+                <div class="text-success">
+                    <h2>Yeni Şifre Oluştur</h2>
+                    <hr />
+                    <p class="text-justify">
+                        @using (Html.BeginForm())
+                        {
+                            @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+
+                            @Html.TextBoxFor(x => x.Password, new { @class = "form-control", placeholder = "Şifreniz" })<br />
+                            @Html.TextBoxFor(x => x.RePassword, new { @class = "form-control", placeholder = "Şifre Tekrar" })
+
+                            <br />
+                            <div style="text-align:right">
+                                @MyBootstrap.Button("success", null, "submit", "ok", "Kaydet")
+                                @MyBootstrap.LinkButton("/Home/Login", "default", null, "Geri Dön", "arrow-left", "Geri Dön")
+                            </div>
+                        }
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+

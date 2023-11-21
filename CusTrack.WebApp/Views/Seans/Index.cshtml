@@ -1,0 +1,101 @@
+﻿@using CusTrack.WebApp.Models.Home
+@model HomePageViewModel
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-10 col-md-offset-1" >
+        <h2 style="text-align:center"><font color="red">Müşteri Dosyaları</font></h2><hr />
+    </div>
+</div>
+<br />
+<div class="container">
+    <div class="row">
+
+        <div class="col-md-3">
+            @Html.Partial("_PartialCustomers")
+        </div>
+
+
+
+        <div class="col-md-9">
+
+            <p>
+                @MyBootstrap.LinkButton("/Seans/Create", "success", null, "Seans Ekle", "plus", "Seans Ekle")
+            </p>
+
+            <table class="table table-striped">
+
+                <thead>
+                    <tr>
+                        <th>
+                            Ad
+                        </th>
+                        <th>
+                            Soyad
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Seans.Title)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Seans.Text)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Seans.IsDraft)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Seans.Date)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Seans.Money)
+                        </th>
+                        <th></th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    @foreach (var item in Model.SeansList)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Owner.Name)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Owner.Surname)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Title)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Text)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.IsDraft)
+                            </td>
+                            <td>
+                                @{
+                                    var newDate = item.Date.ToString("dd-MM-yyyy");
+                                }
+                                @newDate
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Money)
+                            </td>
+                            <td>
+                                @MyBootstrap.LinkButton("/Seans/Edit/" + item.Id, "warning", "btn-xs", "Düzenle", "edit", "Düzenle")
+                                @MyBootstrap.LinkButton("/Seans/Details/" + item.Id, "info", "btn-xs", "Detaylar", "search", "Detaylar")
+                                @MyBootstrap.LinkButton("/Seans/Delete/" + item.Id, "danger", "btn-xs", "Sil", "trash", "Sil")
+                            </td>
+                        </tr>
+                                    }
+                </tbody>
+
+            </table>
+        </div>
+    </div>
+</div>
+
+@Html.Partial("_PartialFooter")

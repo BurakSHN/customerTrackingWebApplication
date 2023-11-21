@@ -1,0 +1,4 @@
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.Core\bin\Release\CusTrack.Core.dll
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.Core\bin\Release\CusTrack.Core.pdb
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.Core\obj\Release\CusTrack.Core.dll
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.Core\obj\Release\CusTrack.Core.pdb

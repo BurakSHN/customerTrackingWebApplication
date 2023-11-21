@@ -1,0 +1,21 @@
+﻿@using CusTrack.Entities
+@using CusTrack.WebApp.Models
+
+@{ 
+    List<Customer> list = CacheHelper.GetCustomersFromCache();
+}
+
+<ul class="list-group">
+    <li class="list-group-item list-group-item-info" style="text-align:center">
+        <b>Müşterilerim</b>
+    </li>
+
+    @foreach (var item in list)
+    {
+        <li class="list-group-item">
+            <span class="glyphicon glyphicon-user" style="color:#46922b"></span>&nbsp;
+            <a href="/Seans/BySeans/@item.Id"><b>@item.Name&nbsp;@item.Surname</b></a>
+        </li>
+    }
+
+</ul>

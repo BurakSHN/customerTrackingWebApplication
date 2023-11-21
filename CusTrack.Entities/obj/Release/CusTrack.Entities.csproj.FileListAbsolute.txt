@@ -1,0 +1,4 @@
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.Entities\bin\Release\CusTrack.Entities.dll
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.Entities\bin\Release\CusTrack.Entities.pdb
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.Entities\obj\Release\CusTrack.Entities.dll
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.Entities\obj\Release\CusTrack.Entities.pdb

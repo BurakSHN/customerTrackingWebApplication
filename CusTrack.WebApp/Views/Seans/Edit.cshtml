@@ -1,0 +1,128 @@
+﻿@model CusTrack.Entities.Seans
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="~/Content/validation-summary.css" rel="stylesheet" />
+
+<link href="~/Content/themes/base/jquery-ui.min.css" rel="stylesheet" />
+<link href="~/Content/bootstrap-toggle.min.css" rel="stylesheet" />
+<script src="~/Scripts/bootstrap-toggle.min.js"></script>
+
+<style>
+    #Money {
+        z-index: 1;
+    }
+</style>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+            <h2 style="text-align:center"><font color="red">Seans Düzenle</font></h2>
+        </div>
+    </div><br />
+
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+
+                <div class="form-horizontal">
+                    @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+                    @Html.HiddenFor(model => model.Id)
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Title, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.Title, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.Title, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Text, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.TextAreaFor(model => model.Text, 5, 70, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.Text, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.IsDraft, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            <div class="checkbox">
+                                @*@Html.EditorFor(model => model.IsDraft)*@
+                                <input checked="@Model.IsDraft" class="check-box" data-val="false" value="true" id="IsDraft" name="IsDraft" type="checkbox" data-toggle="toggle" data-on="Evet" data-off="Hayır" />
+                                @*<input name="IsDraft" type="hidden" value="false" />*@
+                                @Html.ValidationMessageFor(model => model.IsDraft, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Date, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-3">
+                            @Html.EditorFor(model => model.Date, new { htmlAttributes = new { @class = "datepicker form-control" } })
+                            @Html.ValidationMessageFor(model => model.Date, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Money, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-3">
+                            <div class="input-group">
+                                <span class="input-group-addon">₺</span>
+                                <input class="form-control" id="Money" name="Money" type="number" value=@Model.Money style="text-align:right" />
+                                <span class="input-group-addon">.00</span>
+                            </div>
+                            @*@Html.EditorFor(model => model.Money, new { htmlAttributes = new { @class = "form-control" } })*@
+                            @Html.ValidationMessageFor(model => model.Money, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.CustomerId, "Müşteri Adı", htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-3">
+                            @Html.DropDownListFor(model => model.CustomerId, (List<SelectListItem>)ViewBag.Customer, htmlAttributes: new { @class = "form-control" })
+                            @Html.ValidationMessageFor(model => model.CustomerId, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+                            @MyBootstrap.Button("success", null, "submit", "floppy-saved", "Kaydet")
+                            @MyBootstrap.LinkButton("/Seans/Index", "default", null, "Geri Dön", "arrow-left", "Geri Dön")
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+
+@section scripts{
+
+    <script src="~/Scripts/jquery-ui-1.12.1.min.js"></script>
+
+    <script>
+
+    $(function () {
+        $(".datepicker").datepicker({
+            dateFormat: "dd.mm.yy",
+            changeMonth: false,
+            showOn: "both",
+            buttonText: "<i class='fa fa-calendar fa-2x' style='color:cornflowerblue'></i>",
+            locale: "tr",
+            firstDay: 1,
+            monthNames: ["Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "Temmuz", "Ağustos", "Eylül", "Ekim", "Kasım", "Aralık"],
+            dayNamesMin: ["Pzr", "Pts", "Sl", "Çrş", "Prş", "Cm", "Cts"]
+        });
+    });
+
+    </script>
+
+}

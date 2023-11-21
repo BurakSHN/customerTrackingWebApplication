@@ -1,0 +1,53 @@
+﻿@model CusTrack.Entities.User
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-xs-8 col-sm-8 col-md-8 col-lg-8 col-md-offset-2">
+            <h2 style="text-align:center"><font color="red">Yöneticiyi silmek istediğinizden emin misiniz ?</font></h2>
+        </div>
+    </div><hr />
+
+    <div class="row">
+        <div class="col-md-3 col-md-offset-4">
+            <div>
+                <dl class="dl-horizontal">
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Username) :
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Username)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Password) : 
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Password)
+                    </dd>
+
+                </dl>
+
+                @using (Html.BeginForm())
+                {
+                    @Html.AntiForgeryToken()
+
+                    <p style="text-align:right">
+                        @MyBootstrap.Button("danger", null, "submit", "trash", "Sil")
+                        @MyBootstrap.LinkButton("/User/Index", "default", null, "Geri Dön", "arrow-left", "Geri Dön")
+                    </p>
+                }
+            </div>
+        </div>
+        
+    </div>
+
+</div>
+
+

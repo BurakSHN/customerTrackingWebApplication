@@ -1,0 +1,222 @@
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\roslyn\csc.exe
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\roslyn\vbc.exe
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\CusTrack.WebApp.dll.config
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\CusTrack.WebApp.dll
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\CusTrack.WebApp.pdb
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\CusTrack.BusinessLayerr.dll
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\CusTrack.Core.dll
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\CusTrack.Entities.dll
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\EntityFramework.dll
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\Microsoft.Web.Helpers.dll
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\System.Web.Helpers.dll
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\System.Web.Mvc.dll
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\System.Web.Razor.dll
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\System.Web.WebPages.dll
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\WebMatrix.Data.dll
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\WebMatrix.WebData.dll
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\CusTrack.DataAccessLayer.dll
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\CusTrack.BusinessLayerr.pdb
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\CusTrack.Core.pdb
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\CusTrack.Entities.pdb
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\EntityFramework.xml
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\System.Web.Helpers.xml
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\System.Web.Razor.xml
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\System.Web.WebPages.xml
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\WebMatrix.Data.xml
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\WebMatrix.WebData.xml
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\System.Web.Mvc.xml
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\bin\CusTrack.DataAccessLayer.pdb
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\obj\Debug\CusTrack.WebApp.csprojResolveAssemblyReference.cache
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\obj\Debug\CusTrack.WebApp.dll
+C:\Users\Burak ŞAHİN\Documents\Visual Studio 2015\Projects\CustomerTracking\CusTrack.WebApp\obj\Debug\CusTrack.WebApp.pdb
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\csc.exe
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\vbc.exe
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\CusTrack.WebApp.dll.config
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\CusTrack.WebApp.dll
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\CusTrack.WebApp.pdb
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\CusTrack.BusinessLayerr.dll
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\CusTrack.Core.dll
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\CusTrack.Entities.dll
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\EntityFramework.dll
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\Microsoft.Web.Helpers.dll
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.Helpers.dll
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.Mvc.dll
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.Razor.dll
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.WebPages.dll
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\WebMatrix.Data.dll
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\WebMatrix.WebData.dll
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\CusTrack.DataAccessLayer.dll
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\CusTrack.BusinessLayerr.pdb
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\CusTrack.Core.pdb
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\CusTrack.Entities.pdb
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\EntityFramework.xml
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.Helpers.xml
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.Razor.xml
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.WebPages.xml
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\WebMatrix.Data.xml
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\WebMatrix.WebData.xml
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.Mvc.xml
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\CusTrack.DataAccessLayer.pdb
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\obj\Debug\CusTrack.WebApp.csprojResolveAssemblyReference.cache
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\obj\Debug\CusTrack.WebApp.dll
+C:\Users\Burak ŞAHİN\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\obj\Debug\CusTrack.WebApp.pdb
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\csc.exe
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\vbc.exe
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\CusTrack.WebApp.dll.config
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\CusTrack.WebApp.dll
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\CusTrack.WebApp.pdb
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\CusTrack.BusinessLayerr.dll
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\CusTrack.Core.dll
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\CusTrack.Entities.dll
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\EntityFramework.dll
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\Microsoft.Web.Helpers.dll
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.Helpers.dll
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.Mvc.dll
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.Razor.dll
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.WebPages.dll
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\WebMatrix.Data.dll
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\WebMatrix.WebData.dll
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\CusTrack.DataAccessLayer.dll
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\CusTrack.BusinessLayerr.pdb
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\CusTrack.Core.pdb
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\CusTrack.Entities.pdb
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\EntityFramework.xml
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.Helpers.xml
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.Razor.xml
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.WebPages.xml
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\WebMatrix.Data.xml
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\WebMatrix.WebData.xml
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.Mvc.xml
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\CusTrack.DataAccessLayer.pdb
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\obj\Debug\CusTrack.WebApp.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\obj\Debug\CusTrack.WebApp.dll
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\obj\Debug\CusTrack.WebApp.pdb
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\obj\Debug\CusTrack.WebApp.csprojAssemblyReference.cache
+C:\Users\Pc\Desktop\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\obj\Debug\CusTrack.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\BurakSahin\Desktop\güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\obj\Debug\CusTrack.WebApp.csprojAssemblyReference.cache
+C:\Users\BurakSahin\Desktop\güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\obj\Debug\CusTrack.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\BurakSahin\Desktop\güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\obj\Debug\CusTrack.WebApp.dll
+C:\Users\BurakSahin\Desktop\güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\obj\Debug\CusTrack.WebApp.pdb
+C:\Users\BurakSahin\Desktop\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\obj\Debug\CusTrack.WebApp.csprojAssemblyReference.cache
+C:\Users\BurakSahin\Desktop\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\obj\Debug\CusTrack.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\BurakSahin\Desktop\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\obj\Debug\CusTrack.WebApp.dll
+C:\Users\BurakSahin\Desktop\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\obj\Debug\CusTrack.WebApp.pdb
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\csc.exe
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\vbc.exe
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\CusTrack.WebApp.dll.config
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\CusTrack.WebApp.dll
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\CusTrack.WebApp.pdb
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\CusTrack.BusinessLayerr.dll
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\CusTrack.Core.dll
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\CusTrack.Entities.dll
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\EntityFramework.dll
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\Microsoft.Web.Helpers.dll
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\Newtonsoft.Json.dll
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.Helpers.dll
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.Http.dll
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.Mvc.dll
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.Razor.dll
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.WebPages.dll
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\WebMatrix.Data.dll
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\WebMatrix.WebData.dll
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\CusTrack.DataAccessLayer.dll
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\CusTrack.BusinessLayerr.pdb
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\CusTrack.BusinessLayerr.dll.config
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\CusTrack.Core.pdb
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\CusTrack.Entities.pdb
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\EntityFramework.xml
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\Newtonsoft.Json.xml
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.Helpers.xml
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.Http.xml
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.Razor.xml
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.WebPages.xml
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\WebMatrix.Data.xml
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\WebMatrix.WebData.xml
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\System.Web.Mvc.xml
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\CusTrack.DataAccessLayer.pdb
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\bin\CusTrack.DataAccessLayer.dll.config
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\obj\Debug\CusTrack.WebApp.csproj.AssemblyReference.cache
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\obj\Debug\CusTrack.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\obj\Debug\CusTrack.WebApp.csproj.CopyComplete
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\obj\Debug\CusTrack.WebApp.dll
+C:\Users\Burak\Desktop\Masaüstü_11\BGM-güzellik\CusTrack - SifUnuttum\CustomerTracking\CusTrack.WebApp\obj\Debug\CusTrack.WebApp.pdb
